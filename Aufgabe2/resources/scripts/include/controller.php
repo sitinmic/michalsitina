@@ -119,6 +119,6 @@ if(isset($_POST['login'])){
   <strong>Username</strong> Not Found.
 </div>';
         $username = "";
-        header("location:l../login.php");
+        header("location:../login.php");
     }
 }
